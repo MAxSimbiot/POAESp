@@ -1,0 +1,5 @@
+
+i
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(®´Òøÿÿÿÿ8ºÑå©î/
+¤
+java:S4603"Consider replacing "@SpringBootApplication" by a list of beans imported with @Import to speed-up the start-up of the application.(®´Òøÿÿÿÿ8ºÑå©î/
